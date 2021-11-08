@@ -1,0 +1,75 @@
+{
+    "Address": {
+        "display_value": "12 Rectory Garth, Rayleigh, SS6 8BB",
+        "country": "",
+        "latitude": 51.5888976,
+        "address_line_1": "12 Rectory Garth",
+        "Latitude": 51.5888976,
+        "state_province": "",
+        "address_line_2": "",
+        "city_district": "Rayleigh",
+        "postal_code": "SS6 8BB",
+        "Longitude": 0.6091079,
+        "longitude": 0.6091079
+    },
+    "gender": "Male",
+    "Prefix1": "Mr.",
+    "First_Name1": "Richard",
+    "previousName": {
+        "display_value": "",
+        "prefix": "",
+        "last_name": "",
+        "suffix": "",
+        "first_name": ""
+    },
+    "previousAddresses": [
+        {
+            "display_value": "6 Marshalls Close, Rayleigh, SS6 8NG 18/09/2006 25/10/2018 Owner Occupier",
+            "ID": "3661927000012414138"
+        }
+    ],
+    "custJourney": "No Active Journey",
+    "previousNameQ": "No",
+    "Name": {
+        "First_Name": "Richard",
+        "display_value": "Mr. Richard Tunbridge",
+        "Suffix": "",
+        "Last_Name": "Tunbridge",
+        "Prefix": "Mr."
+    },
+    "Full_Name": "Richard Tunbridge",
+    "email_2": "",
+    "Copy_from_Applicant_1": "false",
+    "email_1": "richard.tunbridge@btinternet.com",
+    "Previous_Address_History_Address": "",
+    "countryOfBirth": "",
+    "Last_Name1": "Tunbridge",
+    "Post_Code_Lookup": "",
+    "ID": "3661927000004643676",
+    "preferredName": "Richard",
+    "dateChanged": "",
+    "Adviser": {
+        "display_value": "Stewart Pitt",
+        "ID": "3661927000000205075"
+    },
+    "homePhone": "",
+    "resiStatus": "Owner Occupier",
+    "mobile": "+447809487757",
+    "House_No_Name": "",
+    "noMiddleName": "false",
+    "Nationality": "British",
+    "dateMovedIn": "25/10/2018",
+    "middleNameQ": "No",
+    "dob": "19/10/1972",
+    "Enter_Address_Details": "false",
+    "middleName": "",
+    "workPhone": "+441268564206",
+    "Mortgages1": [
+        {
+            "display_value": "Mtg - 961",
+            "ID": "3661927000001019216"
+        }
+    ],
+    "maritalStatus": "Married",
+    "Select_Address": ""
+}
